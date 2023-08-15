@@ -3,6 +3,7 @@ package ca.sheridancollege.project;
 import java.util.HashMap;
 
 public class ScoreManager {
+
     private static final int WINNING_SCORE = 50;
     private final HashMap<String, Integer> score;
 
